@@ -1,0 +1,53 @@
+﻿@page
+@model EventClient.Pages.ProfileModel
+@{
+    ViewData["Title"] = "El meu Perfil";
+}
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>El meu Perfil</h2>
+
+        @if (Model.User != null)
+        {
+            <div class="card">
+                <div class="card-header">
+                    <h5>Informació del Client</h5>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p><strong>Nom de l'Empresa:</strong> @Model.User.CompanyName</p>
+                            <p><strong>Nom d'Usuari:</strong> @Model.User.Username</p>
+                            <p><strong>Email:</strong> @Model.User.Email</p>
+                        </div>
+                        <div class="col-md-6">
+                            <p><strong>Nombre de Persones:</strong> @Model.User.NumberOfPeople</p>
+                            <p>
+                                <strong>Tipus de Client:</strong>
+                                @if (Model.User.IsVip)
+                                {
+                                    <span class="badge bg-warning text-dark">VIP</span>
+                                }
+                                else
+                                {
+                                    <span class="badge bg-secondary">Estàndard</span>
+                                }
+                            </p>
+                            <p><strong>Data de Registre:</strong> @Model.User.CreatedDate.ToString("dd/MM/yyyy")</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <a asp-page="/Edit" asp-route-id="@Model.User.Id" class="btn btn-primary">Editar Perfil</a>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger">
+                No s'han pogut carregar les dades del perfil.
+            </div>
+        }
+    </div>
+</div>

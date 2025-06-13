@@ -1,0 +1,64 @@
+﻿@page
+@model EventClient.Pages.EditModel
+@{
+    ViewData["Title"] = "Editar Usuari";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h2>Editar Usuari</h2>
+
+        <form method="post">
+            <input asp-for="EditData.Id" type="hidden" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="EditData.CompanyName" class="form-label">Nom de l'Empresa</label>
+                <input asp-for="EditData.CompanyName" class="form-control" />
+                <span asp-validation-for="EditData.CompanyName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="EditData.Username" class="form-label">Nom d'Usuari</label>
+                <input asp-for="EditData.Username" class="form-control" />
+                <span asp-validation-for="EditData.Username" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="EditData.Email" class="form-label">Email</label>
+                <input asp-for="EditData.Email" type="email" class="form-control" />
+                <span asp-validation-for="EditData.Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="EditData.NumberOfPeople" class="form-label">Nombre de Persones</label>
+                <input asp-for="EditData.NumberOfPeople" type="number" min="1" max="100" class="form-control" />
+                <span asp-validation-for="EditData.NumberOfPeople" class="text-danger"></span>
+            </div>
+
+            @if (HttpContext.Session.GetString("UserRole") == "PR" || HttpContext.Session.GetString("UserRole") == "Admin")
+            {
+                <div class="mb-3 form-check">
+                    <input asp-for="EditData.IsVip" type="checkbox" class="form-check-input" />
+                    <label asp-for="EditData.IsVip" class="form-check-label">Client VIP</label>
+                </div>
+            }
+
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Guardar Canvis</button>
+                @if (HttpContext.Session.GetString("UserRole") == "Client")
+                {
+                    <a asp-page="/Profile" class="btn btn-secondary">Cancel·lar</a>
+                }
+                else
+                {
+                    <a asp-page="/Index" class="btn btn-secondary">Cancel·lar</a>
+                }
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

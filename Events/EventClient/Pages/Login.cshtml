@@ -1,0 +1,39 @@
+﻿@page
+@model EventClient.Pages.LoginModel
+@{
+    ViewData["Title"] = "Iniciar Sessió";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h2>Iniciar Sessió</h2>
+
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="LoginData.Email" class="form-label">Email</label>
+                <input asp-for="LoginData.Email" type="email" class="form-control" />
+                <span asp-validation-for="LoginData.Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="LoginData.Password" class="form-label">Contrasenya</label>
+                <input asp-for="LoginData.Password" type="password" class="form-control" />
+                <span asp-validation-for="LoginData.Password" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Iniciar Sessió</button>
+                <a asp-page="/Index" class="btn btn-secondary">Cancel·lar</a>
+            </div>
+        </form>
+
+        <hr />
+        <p>No tens compte? <a asp-page="/Register">Registra't</a></p>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

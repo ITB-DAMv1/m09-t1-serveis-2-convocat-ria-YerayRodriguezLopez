@@ -3,6 +3,118 @@
   "WorkspaceRootPath": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\eventclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\eventclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\dtos\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCB5F94-7DDD-4ED9-969E-C95B7B6269AA}|EventClient\\EventClient.csproj|solutionrelative:eventclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{063EC8B8-E47E-47D0-9B4F-5C0CDAAB2587}|EventAPI\\EventAPI.csproj|c:\\users\\isard\\m09-t1-serveis-2-convocat-ria-yerayrodriguezlopez\\events\\eventapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{063EC8B8-E47E-47D0-9B4F-5C0CDAAB2587}|EventAPI\\EventAPI.csproj|solutionrelative:eventapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -90,84 +202,375 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EventClient\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EventClient\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-13T14:24:50.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "EventClient\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "EventClient\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-13T14:25:14.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\appsettings.json",
+              "RelativeDocumentMoniker": "EventClient\\appsettings.json",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\appsettings.json",
+              "RelativeToolTip": "EventClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T14:25:54.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\EventAPI.csproj",
-              "RelativeDocumentMoniker": "EventAPI\\EventAPI.csproj",
-              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\EventAPI.csproj",
-              "RelativeToolTip": "EventAPI\\EventAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Title": "EventClient",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\EventClient.csproj",
+              "RelativeDocumentMoniker": "EventClient\\EventClient.csproj",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\EventClient.csproj",
+              "RelativeToolTip": "EventClient\\EventClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-13T10:16:22.165Z",
+              "WhenOpened": "2025-06-13T14:26:14.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "EventAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "EventAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-13T10:43:20.184Z"
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:24:27.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "EventAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "EventAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:57:20.586Z"
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:24:07.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "EventAPI\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "EventAPI\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAIwM8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:59:17.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "EventAPI\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Models\\Client.cs",
-              "RelativeToolTip": "EventAPI\\Models\\Client.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAMwCEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:08:12.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Program.cs",
-              "RelativeDocumentMoniker": "EventAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Program.cs",
-              "RelativeToolTip": "EventAPI\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAmwK4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T10:30:24.786Z"
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:24:00.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Edit.cshtml*",
+              "RelativeToolTip": "EventClient\\Pages\\Edit.cshtml*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:18:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Profile.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Profile.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\Profile.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:15:11.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Login.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:13:59.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Register.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\Register.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:13:01.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Index.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwFEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:21:12.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EventClient\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:12:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwFUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:20:26.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Profile.cshtml.cs",
+              "RelativeToolTip": "EventClient\\Pages\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:15:18.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "EventClient\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:19:46.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "EventClient\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T14:19:41.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "EventClient\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:18:46.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "EventClient\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA4wBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:14:02.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EventClient\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "EventClient\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:13:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "EventClient\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Services\\ApiService.cs",
+              "RelativeToolTip": "EventClient\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:11:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "EventClient\\Services\\IApiService.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Services\\IApiService.cs",
+              "RelativeToolTip": "EventClient\\Services\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:10:38.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "EventClient\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "EventClient\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:09:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\EditUserDto.cs",
+              "RelativeDocumentMoniker": "EventClient\\DTOs\\EditUserDto.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\EditUserDto.cs",
+              "RelativeToolTip": "EventClient\\DTOs\\EditUserDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:09:11.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EventClient\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "EventClient\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:08:45.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EventClient\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "EventClient\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:08:16.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "EventClient\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "EventClient\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:07:45.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Program.cs",
+              "RelativeDocumentMoniker": "EventClient\\Program.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventClient\\Program.cs",
+              "RelativeToolTip": "EventClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:06:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\appsettings.json",
               "RelativeDocumentMoniker": "EventAPI\\appsettings.json",
@@ -180,7 +583,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 29,
+              "Title": "EventAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\EventAPI.csproj",
+              "RelativeDocumentMoniker": "EventAPI\\EventAPI.csproj",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\EventAPI.csproj",
+              "RelativeToolTip": "EventAPI\\EventAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T10:16:22.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EventAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EventAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T10:43:20.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:57:20.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "EventAPI\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "EventAPI\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwM8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:59:17.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "EventAPI\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Models\\Client.cs",
+              "RelativeToolTip": "EventAPI\\Models\\Client.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:08:12.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EventAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Program.cs",
+              "RelativeToolTip": "EventAPI\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:30:24.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "20250613104528_Init.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Migrations\\20250613104528_Init.cs",
               "RelativeDocumentMoniker": "EventAPI\\Migrations\\20250613104528_Init.cs",
@@ -192,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 47,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "EventAPI\\Models\\ApplicationUser.cs",
@@ -204,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 46,
               "Title": "ClientDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\ClientDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\ClientDto.cs",
@@ -216,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 44,
               "Title": "CreateClientDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\CreateClientDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\CreateClientDto.cs",
@@ -228,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 43,
               "Title": "UpdateClientDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\UpdateClientDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\UpdateClientDto.cs",
@@ -240,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 42,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\LoginDto.cs",
@@ -252,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 41,
               "Title": "RegisterClientDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\RegisterClientDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\RegisterClientDto.cs",
@@ -264,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 40,
               "Title": "RegisterPRDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\RegisterPRDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\RegisterPRDto.cs",
@@ -276,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 39,
               "Title": "RegisterAdminDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\RegisterAdminDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\RegisterAdminDto.cs",
@@ -288,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 38,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\DTOs\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "EventAPI\\DTOs\\AuthResponseDto.cs",
@@ -300,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 37,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EventAPI\\Data\\ApplicationDbContext.cs",
@@ -312,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 36,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Services\\ITokenService.cs",
               "RelativeDocumentMoniker": "EventAPI\\Services\\ITokenService.cs",
@@ -324,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 35,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\isard\\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\\Events\\EventAPI\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "EventAPI\\Services\\TokenService.cs",

@@ -1,0 +1,68 @@
+﻿@page
+@model EventClient.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Registre de Client";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h2>Registre de Client</h2>
+
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="RegisterData.CompanyName" class="form-label">Nom de l'Empresa</label>
+                <input asp-for="RegisterData.CompanyName" class="form-control" />
+                <span asp-validation-for="RegisterData.CompanyName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="RegisterData.Username" class="form-label">Nom d'Usuari</label>
+                <input asp-for="RegisterData.Username" class="form-control" />
+                <span asp-validation-for="RegisterData.Username" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="RegisterData.Email" class="form-label">Email</label>
+                <input asp-for="RegisterData.Email" type="email" class="form-control" />
+                <span asp-validation-for="RegisterData.Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="RegisterData.Password" class="form-label">Contrasenya</label>
+                <input asp-for="RegisterData.Password" type="password" class="form-control" />
+                <span asp-validation-for="RegisterData.Password" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="RegisterData.ConfirmPassword" class="form-label">Confirmar Contrasenya</label>
+                <input asp-for="RegisterData.ConfirmPassword" type="password" class="form-control" />
+                <span asp-validation-for="RegisterData.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="RegisterData.NumberOfPeople" class="form-label">Nombre de Persones</label>
+                <input asp-for="RegisterData.NumberOfPeople" type="number" min="1" max="100" class="form-control" />
+                <span asp-validation-for="RegisterData.NumberOfPeople" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 form-check">
+                <input asp-for="RegisterData.IsVip" type="checkbox" class="form-check-input" />
+                <label asp-for="RegisterData.IsVip" class="form-check-label">Client VIP</label>
+            </div>
+
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary">Registrar-se</button>
+                <a asp-page="/Index" class="btn btn-secondary">Cancel·lar</a>
+            </div>
+        </form>
+
+        <hr />
+        <p>Ja tens compte? <a asp-page="/Login">Inicia sessió</a></p>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
