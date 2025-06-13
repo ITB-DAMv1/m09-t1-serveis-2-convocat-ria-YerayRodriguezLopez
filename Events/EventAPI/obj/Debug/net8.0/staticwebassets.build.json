@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "+doYzdEpjLYRjCYFJyAjc+C3oPBDw2Ca4toIxV7tZbo=",
+  "Source": "EventAPI",
+  "BasePath": "_content/EventAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
