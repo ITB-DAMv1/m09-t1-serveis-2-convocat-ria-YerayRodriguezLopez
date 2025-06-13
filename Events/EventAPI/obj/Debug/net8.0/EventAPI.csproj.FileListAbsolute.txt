@@ -296,3 +296,11 @@ C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI
 C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\obj\Debug\net8.0\EventAPI.pdb
 C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\obj\Debug\net8.0\EventAPI.genruntimeconfig.cache
 C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\obj\Debug\net8.0\ref\EventAPI.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventAPI\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll

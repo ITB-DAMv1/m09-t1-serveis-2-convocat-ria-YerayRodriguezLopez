@@ -36,3 +36,6 @@ C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventCli
 C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventClient\obj\Debug\net8.0\EventClient.pdb
 C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventClient\obj\Debug\net8.0\EventClient.genruntimeconfig.cache
 C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventClient\obj\Debug\net8.0\ref\EventClient.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventClient\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventClient\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\isard\m09-t1-serveis-2-convocat-ria-YerayRodriguezLopez\Events\EventClient\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll

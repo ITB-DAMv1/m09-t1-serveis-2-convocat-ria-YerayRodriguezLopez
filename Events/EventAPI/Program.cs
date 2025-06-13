@@ -7,6 +7,7 @@ using System.Text;
 using EventAPI.Data;
 using EventAPI.Models;
 using EventAPI.Services;
+using EventAPI.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -79,6 +80,7 @@ builder.Services.AddAuthorization(options =>
 builder.Services.AddScoped<ITokenService, TokenService>();
 
 builder.Services.AddControllers();
+builder.Services.AddSignalR();
 
 // Swagger/OpenAPI configuration
 builder.Services.AddEndpointsApiExplorer();
@@ -148,6 +150,8 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapHub<ChatHub>("/chathub");
+
 
 // Seed roles
 using (var scope = app.Services.CreateScope())

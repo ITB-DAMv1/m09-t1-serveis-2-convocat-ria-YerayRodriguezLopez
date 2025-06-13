@@ -1,0 +1,174 @@
+﻿@page
+@model EventClient.Pages.ChatModel
+@{
+    ViewData["Title"] = "Xat en Viu";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Xat en Viu</h2>
+
+            <!-- Connection Status -->
+            <div id="connectionStatus" class="alert alert-info">
+                <span id="statusText">Connectant...</span>
+            </div>
+
+            <!-- Chat Messages -->
+            <div class="card mb-3">
+                <div class="card-header">
+                    <h5>Missatges</h5>
+                </div>
+                <div class="card-body">
+                    <div id="messagesList" class="chat-messages" style="height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; background-color: #f8f9fa;">
+                        <!-- Messages will appear here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Send Message Form -->
+            <div class="card">
+                <div class="card-body">
+                    <form id="messageForm">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <label for="userInput" class="form-label">Usuari:</label>
+                                <input type="text" id="userInput" class="form-control" value="@Model.Username" readonly />
+                            </div>
+                            <div class="col-md-7">
+                                <label for="messageInput" class="form-label">Missatge:</label>
+                                <input type="text" id="messageInput" class="form-control" placeholder="Escriu el teu missatge..." maxlength="500" />
+                            </div>
+                            <div class="col-md-2 d-flex align-items-end">
+                                <button type="submit" id="sendButton" class="btn btn-primary w-100" disabled>Enviar</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+    <script>
+        "use strict";
+
+        // SignalR Connection
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("@Model.ApiUrl/chathub")
+            .build();
+
+        // DOM Elements
+        const messagesList = document.getElementById("messagesList");
+        const messageForm = document.getElementById("messageForm");
+        const messageInput = document.getElementById("messageInput");
+        const userInput = document.getElementById("userInput");
+        const sendButton = document.getElementById("sendButton");
+        const connectionStatus = document.getElementById("connectionStatus");
+        const statusText = document.getElementById("statusText");
+
+        // Connection Status Management
+        function updateConnectionStatus(status, message, alertClass) {
+            connectionStatus.className = `alert ${alertClass}`;
+            statusText.textContent = message;
+            sendButton.disabled = status !== 'connected';
+        }
+
+        // Start Connection
+        connection.start()
+            .then(function () {
+                updateConnectionStatus('connected', 'Connectat al xat', 'alert-success');
+                console.log("SignalR Connected");
+            })
+            .catch(function (err) {
+                updateConnectionStatus('error', 'Error de connexió: ' + err.toString(), 'alert-danger');
+                console.error("SignalR Connection Error: ", err.toString());
+            });
+
+        // Connection Closed
+        connection.onclose(function () {
+            updateConnectionStatus('disconnected', 'Connexió perduda. Intentant reconnectar...', 'alert-warning');
+            // Attempt to reconnect
+            setTimeout(function() {
+                connection.start()
+                    .then(function () {
+                        updateConnectionStatus('connected', 'Reconnectat al xat', 'alert-success');
+                    })
+                    .catch(function (err) {
+                        updateConnectionStatus('error', 'Error de reconnexió: ' + err.toString(), 'alert-danger');
+                    });
+            }, 5000);
+        });
+
+        // Receive Messages
+        connection.on("ReceiveMessage", function (user, message, timestamp) {
+            const messageElement = document.createElement("div");
+            messageElement.className = "mb-2 p-2 border-bottom";
+
+            const formattedMessage = `[${timestamp}] > ${user}: ${message}`;
+            messageElement.innerHTML = `<span class="text-muted">${escapeHtml(formattedMessage)}</span>`;
+
+            messagesList.appendChild(messageElement);
+            messagesList.scrollTop = messagesList.scrollHeight;
+        });
+
+        // Send Message
+        messageForm.addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            const user = userInput.value.trim();
+            const message = messageInput.value.trim();
+
+            if (user && message) {
+                connection.invoke("SendMessage", user, message)
+                    .then(function () {
+                        messageInput.value = "";
+                        messageInput.focus();
+                    })
+                    .catch(function (err) {
+                        console.error("Error sending message: ", err.toString());
+                        alert("Error en enviar el missatge: " + err.toString());
+                    });
+            }
+        });
+
+        // Enter key to send message
+        messageInput.addEventListener("keypress", function (event) {
+            if (event.key === "Enter" && !sendButton.disabled) {
+                messageForm.dispatchEvent(new Event('submit'));
+            }
+        });
+
+        // Escape HTML to prevent XSS
+        function escapeHtml(unsafe) {
+            return unsafe
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // Focus on message input when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            messageInput.focus();
+        });
+    </script>
+}
+
+<style>
+    .chat-messages {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+    }
+
+    .chat-messages .mb-2 {
+        word-wrap: break-word;
+    }
+
+    #messageInput:focus {
+        box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+    }
+</style>
